@@ -374,6 +374,24 @@ span {
     background-size: cover;
     align-items: center;
 }
+.laptop-web {
+    width: 240PX;
+    height: 100%;
+    display: flex;
+    background-image: url(laptop_price.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+.landing-web {
+    width: 240PX;
+    height: 100%;
+    display: flex;
+    background-image: url(Landing Page1).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
 
 .work-text {
     color: white;
