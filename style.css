@@ -138,7 +138,7 @@ header.shadow {
 
 .work-bg {
     min-height: 60vh;
-    background-image: url(work_img.jpg);
+    background-image: url(workimg.jpg);
 }
 
 .home-img {
@@ -374,7 +374,7 @@ span {
     background-size: cover;
     align-items: center;
 }
-.laptop-web {
+.laptop_web {
     width: 240PX;
     height: 100%;
     display: flex;
@@ -383,7 +383,7 @@ span {
     background-size: cover;
     align-items: center;
 }
-.landing-web {
+.landing_web {
     width: 240PX;
     height: 100%;
     display: flex;
